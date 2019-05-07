@@ -1,3 +1,2 @@
 # STAT-345
-
-contents of README
+Proof of Felipe's Git Hub account
